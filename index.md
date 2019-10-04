@@ -1,3 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<body>
+  <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    </li>
+                    <li class="page-scroll">
+                        <a href="#cv">About me</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="#petprojects">Projects</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+</body>   
+
 # Bio
 
 Kalyani is a skilled IT professional with 3.5 years of experience focused on heavy use of complex SQLs. She is skilled in building dashboards to support decision making and generating insights. She has a good hold on identifying KPIs and metrics for stakeholders to derive meaning out of data. She has a masters degree concentrating on data analytics and business intelligence.
